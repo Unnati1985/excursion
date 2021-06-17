@@ -1,16 +1,33 @@
 html {
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#topheading {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+div {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-#toplink {
+.link {
     color: aquamarine;
     font-size: 16px;
+}
+
+#secondheading {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+    font-size: 21px;
 }
